@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm Fernando from Brasil<br><br>- 🔭 I’m a Software Engineering student <br>- 📚 I'm currently learning java<br></p>
+<p align="left">I'm Fernando from Brasil and im studying Software Engineering in Puc Minas.<br><br>- 🔭  <br>- 📚 I'm currently learning java<br></p>
 
 ###
 
