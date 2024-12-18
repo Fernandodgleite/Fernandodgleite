@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Fernando from Brasil and im studying Software Engineering in Puc Minas.<br><br>  <br>- 📚 I'm currently learning java<br></p>
+<p align="left">Hello, I'm Fernando from Brazil. I am an undergraduate student in Software Engineering at PUC Minas, currently gaining professional experience through an internship at TechDriven Digital.<br><br>  <br>- 📚 I'm currently studying java and C# <br></p>
 
 ###
 
