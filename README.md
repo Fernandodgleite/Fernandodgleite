@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">Hello, I'm Fernando from Brazil. I am an undergraduate student in Software Engineering at PUC Minas, currently gaining professional experience through an internship at TechDriven Digital.<br><br>  <br>- 📚 I'm currently studying java and C# <br></p>
+<p align="left">Hello, I'm Fernando from Brazil. I am an undergraduate student in Software Engineering at PUC Minas, currently gaining professional experience through an internship at TechDriven Digital.<br><br>  <br>- 📚 I'm currently studying Java, .NET, Angular and MySQL. <br></p>
 
 ###
 
@@ -45,6 +45,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/angularjs/original.svg"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg"></img>
+  
+
 </div>
 
 ###
