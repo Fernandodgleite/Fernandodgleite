@@ -38,19 +38,14 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://devicon-website.vercel.app/api/angularjs/original.svg" height="40" alt="angular logo">
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg" height="40" alt="MySQL logo">
   <img width="12" />
-
+  <img src="https://devicon-website.vercel.app/api/dotnetcore/original.svg" height="40" alt="dotnet logo">
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/typescript/plain.svg" height="40" alt="typescript logo">
+  <img width="12" />
 </div>
 
 ###
