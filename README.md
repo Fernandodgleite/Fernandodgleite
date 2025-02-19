@@ -46,10 +46,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/angularjs/original.svg"></img>
+  <img src="https://devicon-website.vercel.app/api/angularjs/original.svg">
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg"></img>
-  
+  <img src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg">
+  <img width="12" />
 
 </div>
 
