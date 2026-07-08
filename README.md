@@ -23,6 +23,6 @@
 
 ###
 
-<p align="left"> Undergraduate student in Software Engineering at PUC Minas, currently gaining professional experience through an internship at Prime Results.<br>  <br>- I'm currently studying Java on university and .NET and React on my intership. <br></p>
+<p align="left"> Undergraduate student in Software Engineering at PUC Minas, currently gaining professional experience through an internship at Prime Results.<br>  
 
 ###
