@@ -18,11 +18,3 @@
 </div>
 
 ###
-
-<h3 align="left">About Me</h3>
-
-###
-
-<p align="left"> Undergraduate student in Software Engineering at PUC Minas, currently gaining professional experience through an internship at Prime Results.<br>  
-
-###
